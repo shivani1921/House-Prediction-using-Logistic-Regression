@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 
 
-data = pd.read_csv("/content/data.csv")
+data = pd.read_csv("/content/House Price Prediction Dataset.csv")
 
 df = pd.DataFrame(data)
 
